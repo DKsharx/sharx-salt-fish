@@ -1,0 +1,9 @@
+function:
+  setting:
+    question_function: '1'
+run:
+  info:
+    app_path: ""
+    question_com_num: 0
+    run_diff_time: 2284.4558856487274
+agreed_to_disclaimer: false
